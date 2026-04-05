@@ -1,4 +1,3 @@
-# colab-blender-render-for-free
 # 【Blender】Colabでblendファイルをレンダリングする方法
 
 > [!TIP]
